@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/08/18 09:47:28.626.pas,C:\Users\thamara.castro\OneDrive - SIAGRI SISTEMAS DE GESTAO LTDA\Documentos\Borland Studio Projects\Unit1.pas=C:\Users\thamara.castro\OneDrive - SIAGRI SISTEMAS DE GESTAO LTDA\Documentos\ProjetoTeste\uFrmPrincipal.pas</Transaction>
+    <Transaction>2021/08/18 09:47:28.626.dfm,C:\Users\thamara.castro\OneDrive - SIAGRI SISTEMAS DE GESTAO LTDA\Documentos\Borland Studio Projects\Unit1.dfm=C:\Users\thamara.castro\OneDrive - SIAGRI SISTEMAS DE GESTAO LTDA\Documentos\ProjetoTeste\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2021/08/18 09:47:51.180.bdsproj,C:\Users\thamara.castro\OneDrive - SIAGRI SISTEMAS DE GESTAO LTDA\Documentos\Borland Studio Projects\Project1.bdsproj=C:\Users\thamara.castro\OneDrive - SIAGRI SISTEMAS DE GESTAO LTDA\Documentos\ProjetoTeste\App_Elementos_Visuais.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
